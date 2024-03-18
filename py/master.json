@@ -1,0 +1,7 @@
+[
+    {
+        "source": "C:/ProgramData/LabScript/Videos/FluidDetection/Archive",
+        "dest": "C:/Users/ravi_/workspace/source/MeniscusTrackingFork/MeniscusTrackingTests/TestData/dfEthOnRotor55kBatch10",
+        "files": ["*"]
+    }
+]
